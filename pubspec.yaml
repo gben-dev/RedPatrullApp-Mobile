@@ -1,0 +1,33 @@
+name: app_red_patrulla
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.19.0
+  cloud_firestore: ^4.17.0
+  geolocator: ^11.0.0
+  image_picker: ^1.0.7
+  http: ^1.2.1
+  image: ^4.1.7
+  url_launcher: ^6.2.5
+  camera: ^0.10.5+5
+  google_mlkit_text_recognition: ^0.15.0
+  path_provider: ^2.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867072052805",
+    "project_id": "redpatrullappv2",
+    "storage_bucket": "redpatrullappv2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867072052805:android:f45cc5f4646a6115d45d2c",
+        "android_client_info": {
+          "package_name": "com.example.app_red_patrulla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxxgN6EIDKT0vTMaOdg05C9mR9gwa_kqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
