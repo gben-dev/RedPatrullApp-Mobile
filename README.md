@@ -8,6 +8,6 @@ Conductor
 Usuario: lcuevas@mpuda.cl
 Password: 123456
 
-Patrullero
+Inspector
 Usuario: wgonzalez@mpuda.cl
 Password: 123456
