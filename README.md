@@ -1,13 +1,13 @@
 Credenciales
 
 Administrador
-usuario: renatox@mpuda.cl
-password: renatopuda
+Usuario: renatox@mpuda.cl
+Password: renatopuda
 
 Conductor
-usuario: lcuevas@mpuda.cl
-password: 123456
+Usuario: lcuevas@mpuda.cl
+Password: 123456
 
 Patrullero
-usuario: wgonzalez@mpuda.cl
-password: 123456
+Usuario: wgonzalez@mpuda.cl
+Password: 123456
