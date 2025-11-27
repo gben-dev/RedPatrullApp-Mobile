@@ -20,7 +20,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.app_red_patrulla"
-        minSdkVersion 23
+        minSdkVersion flutter.minSdkVersion
         // Using targetSdkVersion 34 (current Play requirement) for broader library compatibility
         targetSdkVersion 34
         versionCode flutter.versionCode
